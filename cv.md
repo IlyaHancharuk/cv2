@@ -1,6 +1,6 @@
 # ___My CV___
 
-!C:\Users\innot\Downloads\0057.jpg
+![myself](C:\Users\innot\Downloads\0057.jpg)
 
 | **Personal information** | **:)**                          |
 |--------------------------|---------------------------------|
